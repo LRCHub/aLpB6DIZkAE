@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "multiple exposure",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-14T04:44:20.249256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Multiple Exposure",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_Multiple_Exposure_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "multiple exposure",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_multiple_exposure_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "multiple exposure",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_multiple_exposure_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "multiple exposure",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/04_multiple_exposure_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Multiple Exposure",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": false,
+      "path": "select/05_Multiple_Exposure_Tokyo_Ska_Paradise_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "multiple exposure",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/06_multiple_exposure_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Multiple Exposure",
+      "artist": "Sakanaction",
+      "has_synced": false,
+      "path": "select/07_Multiple_Exposure_Sakanaction.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "multiple exposure",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_multiple_exposure_サカナクション.txt"
+    }
+  ]
+}
